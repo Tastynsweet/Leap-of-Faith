@@ -1,2 +1,2 @@
 # Death-is-an-Opportunity
-Game project for a Jamsepticeye
+Simple game clicker idea
