@@ -29,7 +29,7 @@ The only remaining work is:
    ```bash
    git clone https://github.com/Tastynsweet/Leap-of-Faith.git
 2. Open the project in Unity
-3. Open [Main Menu] scene
+3. Open [Start Scene] scene
 4. Press play
 
 ## Built With
